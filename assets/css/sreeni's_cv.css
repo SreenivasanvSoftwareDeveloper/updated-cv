@@ -1,0 +1,25 @@
+.ProfileInfo{
+  background: #00a591;
+  color: white;
+}
+.emailid{
+  font-size: 14px;
+}
+.address{
+  text-align: justify;
+}
+.about-header{
+  background: black;
+}
+.about-content{
+  text-align: justify;
+}
+a:link{
+  color:white;
+}
+.employment-header{
+  border-bottom: solid 2px;
+}
+.employment-content{
+  text-align: justify;
+}
